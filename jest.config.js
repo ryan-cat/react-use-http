@@ -1,6 +1,7 @@
 module.exports = {
   preset: 'ts-jest',
   collectCoverage: true,
+  modulePathIgnorePatterns: ['<rootDir>/dist/'],
   reporters: [
     'default',
     [
