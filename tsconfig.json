@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "jsx": "react",
+    "baseUrl": "src",
+    "outDir": "dist",
+    "declaration": true
+  }
+}
